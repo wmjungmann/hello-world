@@ -1,2 +1,5 @@
 # hello-world
-My first repository, very exciting...
+
+Hi! How are ya?
+
+I'm Matthew, a computer science student in Technologcial University Dublin. 
